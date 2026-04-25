@@ -1,4 +1,5 @@
 ## Plant Friend Documentation
+![collage of initial setup](plantfriend_collage.webp)
 
 ### I hate guesswork. I'm sure you do, too. This project is meant for people like us- those without green thumbs. 
 
@@ -43,3 +44,6 @@ Additionally, tests for the display, SD card, and sensor calibration are in thei
 - 13x Jumper wires (if using breadboard)
 - ~256g PLA filament at 15% infill
 
+## Does it work? 
+![grown](plantfriend_grown.webp)
+### You tell me.
