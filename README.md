@@ -34,12 +34,12 @@ Additionally, tests for the display, SD card, and sensor calibration are in thei
 
 ## Materials 
 
-1x Arduino Nano (any microcontroller with >32kB flash memory)
-1x SD1306 0.96" OLED display
-1x Micro SD card adapter with breakout board
-1x Micro SD card (<8gb preferred)
-1x Capacitive soil moisture sensor (my recommendation is GikFun brand)
-1x Mini breadboard or perfboard
-13x Jumper wires (if using breadboard)
-~256g PLA filament at 15% infill
+- 1x Arduino Nano (any microcontroller with >32kB flash memory)
+- 1x SD1306 0.96" OLED display
+- 1x Micro SD card adapter with breakout board
+- 1x Micro SD card (<8gb preferred)
+- 1x Capacitive soil moisture sensor (my recommendation is GikFun brand)
+- 1x Mini breadboard or perfboard
+- 13x Jumper wires (if using breadboard)
+- ~256g PLA filament at 15% infill
 
