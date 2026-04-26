@@ -1,7 +1,7 @@
 ## Plant Friend Documentation
 ![collage of initial setup](plantfriend_collage.webp)
 
-### I hate guesswork. I'm sure you do, too. This project is meant for people like us- those without green thumbs. 
+## Goal: take the guesswork out of growing plants using accessible hardware. 
 
 ## How it works
 
